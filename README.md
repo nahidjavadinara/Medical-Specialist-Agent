@@ -1527,23 +1527,6 @@ A: Use quantization, batch processing, caching, and GPU acceleration.
 
 ---
 
-## Changelog
-
-### Version 1.0.0 (2024-01-15)
-- Initial release
-- Multi-format document support
-- FLAN-T5 integration
-- Vector search with ChromaDB
-- Agentic workflow orchestration
-
-### Version 1.1.0 (Planned)
-- PDF support
-- Multi-modal image analysis
-- Fine-tuning capabilities
-- Web interface
-- API endpoints
-- Docker deployment
-
 ---
 
 ## License
@@ -1579,40 +1562,9 @@ For enterprise support, custom development, and consulting:
 
 ---
 
-## Citation
-
-If you use this system in your research, please cite:
-
-```bibtex
-@software{medical_ai_agent,
-  title = {Medical Records AI Agent: An Agentic System for Healthcare Document Analysis},
-  author = {Your Name},
-  year = {2024},
-  url = {https://github.com/your-org/medical-ai-agent}
-}
-```
 
 ---
 
-## Disclaimer
-
-⚕️ **MEDICAL DISCLAIMER**
-
-This software is for informational and research purposes only. It is NOT:
-- A substitute for professional medical advice
-- FDA approved or cleared
-- Intended for clinical diagnosis
-- Validated for patient care decisions
-
-Always consult qualified healthcare professionals for medical advice, diagnosis, and treatment.
-
-The developers and contributors assume no liability for any decisions made based on this system's outputs.
-
----
-
-**Last Updated:** January 2024  
-**Documentation Version:** 1.0.0  
-**Maintained By:** Medical AI Agent Team Customization
 
 #### Switch to Different SLM
 
