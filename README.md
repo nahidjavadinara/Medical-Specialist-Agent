@@ -1529,42 +1529,6 @@ A: Use quantization, batch processing, caching, and GPU acceleration.
 
 ---
 
-## License
-
-This project is licensed under the MIT License with Healthcare Addendum.
-
-**Healthcare Addendum:**
-This software is provided for research and development purposes. Any clinical use must comply with local regulations including but not limited to HIPAA (US), GDPR (EU), and relevant medical device regulations. Users are responsible for ensuring compliance.
-
----
-
-## Acknowledgments
-
-- **Hugging Face** for transformer models
-- **Google** for FLAN-T5
-- **Sentence-Transformers** team
-- **ChromaDB** developers
-- Medical AI research community
-
----
-
-## Support
-
-### Community
-- GitHub Issues: [github.com/your-org/medical-ai-agent/issues](https://github.com)
-- Discord: [discord.gg/medical-ai](https://discord.gg)
-- Email: support@medical-ai-agent.org
-
-### Professional Support
-For enterprise support, custom development, and consulting:
-- Email: enterprise@medical-ai-agent.org
-- Website: medical-ai-agent.org/enterprise
-
----
-
-
----
-
 
 #### Switch to Different SLM
 
@@ -1763,9 +1727,11 @@ class ExplainableAgent(MedicalAIAgent):
         # ... implementation ...
         pass
 ```
+## Acknowledgments
+
+- **Hugging Face** for transformer models
+- **Google** for FLAN-T5
+- **Sentence-Transformers** team
+- **ChromaDB** developers
 
 ---
-
-## Performance Optimization
-
-### 1. Model
